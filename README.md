@@ -1,16 +1,29 @@
-# Hi, I'm Junior! :D
 ![](https://visitor-badge.laobi.icu/badge?page_id=junimslage10.junimslage10)
 [![Github](https://img.shields.io/github/followers/junimslage10?label=Follow&style=social)](https://github.com/junimslage10)
-
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/fagnerpsantos)](https://github.com/junimslage10)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/)](https://www.linkedin.com/in/juniorlagewebdesign/)
 
+# Hi, I'm Junior! :D
+
 ### About me
+
 I'm a { frontend } developer.
 
-🎓  Studying React JS at Rocketseat🚀
-📘  Learning more about React, Node.JS and Next.JS.
+🎓 Studying React JS at Rocketseat🚀
+📘 Learning more about React, Node.JS and Next.JS.
 
+<ul>
+    <li>
+        <g-emoji class="g-emoji" alias="mortar_board"
+            fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f393.png">🎓</g-emoji>
+        &nbsp;Studying React at <a href="https://rocketseat.com.br/">Rocketseat</a>🚀
+    </li>
+    <li>
+        <g-emoji class="g-emoji" alias="blue_book"
+            fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4d8.png">📘</g-emoji>&nbsp;
+        Learning more about React, Node.JS and Next.JS.
+    </li>
+    </ul>
 <p>
     <a href="https://typescriptlang.org/" rel="nofollow"><img
             src="https://camo.githubusercontent.com/09bbb32891eb25958ff7ef98415157521b59cdf8258ab0a019c6f9e0a8a61b2e/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f33302f3030303030302f747970657363726970742e706e67"
@@ -39,7 +52,6 @@ I'm a { frontend } developer.
 
 <!-- Dinamics datas-->
 
-[![luanjesus GitHub stats](https://github-readme-stats.vercel.app/api?username=junimslage10&show_icons=true&theme=cobalt)](https://github.com/junimslage10/github-readme-stats)
+[![junimslage10 GitHub stats](https://github-readme-stats.vercel.app/api?username=junimslage10&show_icons=true&theme=cobalt)](https://github.com/junimslage10/github-readme-stats)
 </br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junimslage10&layout=compact&show_icons=true&theme=cobalt)](https://github.com/junimslage10/github-readme-stats)
-
