@@ -9,9 +9,6 @@
 
 I'm a { frontend } developer.
 
-🎓 Studying React JS at Rocketseat🚀
-📘 Learning more about React, Node.JS and Next.JS.
-
 <ul>
     <li>
         <g-emoji class="g-emoji" alias="mortar_board"
