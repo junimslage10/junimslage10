@@ -68,6 +68,3 @@ Eu sou um excelente comunicador, tenho uma grande paixão por criar experiência
     </td>
   </row>
 </table>
-
-[![junimslage10 GitHub stats](https://github-readme-stats.vercel.app/api?username=junimslage10&show_icons=true&theme=cobalt)](https://github.com/junimslage10/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junimslage10&layout=compact&show_icons=true&theme=cobalt)](https://github.com/junimslage10/github-readme-stats)
